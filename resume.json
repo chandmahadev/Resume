@@ -1,0 +1,151 @@
+{
+  "basics": {
+    "name": "Chandana M",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "chandumdruthi@gmail.com",
+    "phone": "+91 8310943148",
+    "url": "",
+    "summary": "Software Engineer with 1+ year of experience building and debugging production web applications using JavaScript, React.js, Node.js, RESTful APIs, and SQL databases. Experienced in developing full-stack product features, integrating backend services, working with data-driven applications, and integrating LLM APIs to generate Candidate Development Reports. Strong foundation in software development, debugging, problem-solving, and collaborative Git-based workflows.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bangalore",
+      "region": "Karnataka",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Curatal",
+      "position": "Junior Software Developer",
+      "url": "",
+      "startDate": "2025-11-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained production application features using JavaScript, Node.js, React.js, RESTful APIs, and PostgreSQL.",
+        "Built reusable React.js components and integrated backend services through REST APIs using Axios and React Query.",
+        "Developed data-driven product workflows including search, filtering, pagination, dynamic rendering, and API-based functionality.",
+        "Integrated LLM APIs into the product to generate Candidate Development Reports, transforming candidate-related data into structured development insights.",
+        "Debugged application and API issues, performed root-cause analysis, and contributed to performance, reliability, and maintainability improvements."
+      ]
+    },
+    {
+      "name": "Tibil Solutions",
+      "position": "Technical Intern",
+      "url": "",
+      "startDate": "2025-06-01",
+      "endDate": "2025-09-01",
+      "summary": "",
+      "highlights": [
+        "Developed backend features using Node.js and Express.js and worked with RESTful APIs.",
+        "Worked with SQL databases and debugged application issues to support feature development."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ATME College of Engineering",
+      "url": "",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2019-08-01",
+      "endDate": "2023-06-01",
+      "score": "CGPA: 7.5/10",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "MERN Stack Developer",
+      "date": "2024-06-01",
+      "issuer": "Innova Skill Technologies",
+      "url": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "React.js",
+        "React Hooks",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "React Query",
+        "Axios"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Node.js",
+        "Express.js",
+        "RESTful APIs"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "AI / Integration",
+      "level": "",
+      "keywords": [
+        "LLM APIs",
+        "API Integration"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Cursor"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Interview Management & Candidate Development Platform -- Curatal",
+      "startDate": "",
+      "endDate": "",
+      "description": "React.js, Node.js, PostgreSQL, REST APIs, LLM APIs",
+      "highlights": [
+        "Contributed to a production interview management platform by developing data-driven dashboards with search, filtering, pagination, dynamic rendering, and REST API integration.",
+        "Integrated LLM APIs to generate Candidate Development Reports, transforming candidate data into structured and actionable development insights."
+      ],
+      "url": ""
+    }
+  ]
+}
